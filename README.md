@@ -7,7 +7,7 @@
 - Kulanınıcın kimliğine göre uygulama
 - İçerisndeki erişimlerini kısatlama -->
 
-<h1>Responsive messaging application I created with Firebase, in this application you can create any room and message with your friends.<h1>
+<h2>Responsive messaging application I created with Firebase, in this application you can create any room and message with your friends.<h2>
 
 Screen View
 
