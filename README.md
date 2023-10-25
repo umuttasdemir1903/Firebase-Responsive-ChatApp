@@ -11,4 +11,4 @@
 
 Screen View
 
-<img src="./src/assets/Firebase-Chat.gif"/>
+<img src="./src/assets/Firebase-Chat.gif">
