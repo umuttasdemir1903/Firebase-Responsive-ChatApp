@@ -7,7 +7,7 @@
 
 ## Authorization (Yetkilendirme)
 - Kulanınıcın kimliğine göre uygulama
-- İçerisndeki erişimlerini kısatlama -->
+- İçerisndeki erişimlerini kısatlama 
 
 
 Screen View
